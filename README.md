@@ -1,16 +1,10 @@
-### Hi there 👋
+### oirrhs👋
+### bem vindo ao meu perfil 🧑‍🦲
 
-<!--
-**monsterpoggerson/monsterpoggerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on programm
-- 🌱 I’m currently learning how to programm in alura
-- 👯 I’m looking to collaborate on a community
-- 🤔 I’m looking for help with tasks
-- 💬 Ask me about exact sciences
-- 📫 How to reach me: my user in instagram bizx
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: im currently studying anatomy too because i like drawing
--->
+### Meu nome é Rubia andreza 😾
+- Estou estudando na [Alura]( https://cursos.alura.com.br/user/00001151359580SP)
+- estou aprendendo linguagem Javascript
+- o esse perfil para mostrar meu desenvolvimento e compartilhar meus projetos concluídos
+- ###Você pode entrar em contato comigo em:
+- rubiateixeira86@gmail.com Ou no meu instagram bizxf
+- ![image](https://github.com/monsterpoggerson/monsterpoggerson/assets/169791666/9326641e-48a9-49d0-bcbb-09f0358bb966)
